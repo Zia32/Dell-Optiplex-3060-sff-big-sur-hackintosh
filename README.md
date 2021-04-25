@@ -1,8 +1,10 @@
 # Dell-Optiplex-3060-sff-big-sur-hackintosh
 
-Hi, I have installed Macos Big sur on my dell optiplex 3060 sff. 
+Hi, I have installed Macos Big sur on my dell optiplex 3060 sff.
 
-**Note:This guide does need some experiance regarding hackintosh**
+![Screenshot 2021-04-26 at 4 36 00 AM](https://user-images.githubusercontent.com/63354754/116013349-3b247300-a649-11eb-8696-e9fb01824b8f.png)
+
+**Note:This guide does need some past experiance regarding hackintosh**
 
 ## Requirments
 * One working MAC OS X Enviroment
