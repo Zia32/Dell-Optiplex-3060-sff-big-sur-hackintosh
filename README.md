@@ -14,5 +14,13 @@ Hi, I have installed Macos Big sur on my dell optiplex 3060 sff.
 ## Specs
 * Proccessor
   * Intel Core i5-8500 3.0GHz
-* 8gb ddr4 RAM
-* Realtek ALC 255
+* RAM
+  * 8gb DDR4 2666 MHz
+* Sound Adapter
+  * Realtek ALC 255
+* Ethernet
+  * Realtek RTL8168
+
+## Whats Works
+Each and every thing works except Sleep.
+You will need a compatible wifi card for Wifi and Bluetooth.
