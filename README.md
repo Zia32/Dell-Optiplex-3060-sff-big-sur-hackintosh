@@ -30,7 +30,7 @@ Hi, I have installed Macos Big sur on my dell optiplex 3060 sff.
 * Disable:
   * Secure Boot
   * Intel SGX
-  * 
+
 ## Whats Works
 Each and every thing works except Sleep. You will need a compatible wifi card for Wifi and Bluetooth. You can also use Ethernet or USB Wifi Dongle for Wifi.
 
