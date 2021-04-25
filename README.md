@@ -2,6 +2,8 @@
 
 Hi, I have installed Macos Big sur on my dell optiplex 3060 sff. 
 
+**NOTE**
+
 ## Requirments
 * One working MAC OS X Enviroment
 * 16GB USB Stick (a larger drive may not bootable and/or require advanced partitioning)
