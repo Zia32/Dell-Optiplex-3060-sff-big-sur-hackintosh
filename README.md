@@ -41,3 +41,5 @@ Each and every thing works except Sleep. You will need a compatible wifi card fo
 * Mount the efi partition and paste my given EFI folder
 * Then regenerate the Smbios in Plist
 * Now boot the usb and install the OS
+
+Opencore Version:6.9, MacOS Version:11.3.1
